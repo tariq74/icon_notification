@@ -1,8 +1,8 @@
 name: iconNotification
-description: A new Flutter package project.
+description: A widget for notification icon
 version: 0.0.1
-author:
-homepage:
+author: Mohammad Tariq Ali bin Salamudeen Ali
+
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
